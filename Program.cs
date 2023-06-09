@@ -1,4 +1,4 @@
-﻿using Practice___Inheritance;
+﻿using ClassLibraries; 
 
 class Program
 {
